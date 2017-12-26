@@ -1,0 +1,170 @@
+@charset"utf-8";
+
+
+
+/* */ 
+
+#navbar{
+ font-family: 'Permanent Marker', cursive;
+    font-weight: 600;
+    color: black;
+    background-color: white;
+}
+
+.icon-bar{
+    background-color: black;
+}
+
+#navbar a{
+    color: black;
+}
+
+#jumbo{
+    background-color: white;
+    padding: 70px;
+    color: white;
+    height: 250px;
+    font-family: 'Permanent Marker', cursive;
+    background-image: url(ma_bgimage.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+    text-align: center;
+}
+
+#nfstext{
+    height: 300px;
+    padding: 35px;
+    text-decoration: none;
+    text-align: center;
+    color: black;
+    font-family: 'Permanent Marker', cursive;
+    background-image: url(mawooden.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: bottom;
+}
+
+#nfsbutton{
+    width: 150px;
+}
+
+#nfsbutton a{
+    color: black;
+    text-decoration: none;
+    background-color: whitesmoke;
+}
+
+
+#imggallery{
+    height: 310px;
+    background-image: url(imggall%20copy.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+}
+
+#photography{
+    padding: 20px;
+    margin-top: 5%;
+}
+
+#takethequiz{
+    height: 300px;
+    background-color: lightblue;
+    background-image: url(image1.png);
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: contain;
+    font-family: 'Permanent Marker', cursive;
+}
+
+#quiztext{
+    font-size: 20pt;
+    line-height: 3em;
+    color: whitesmoke;
+    padding: 10px;
+    text-align: center;
+}
+
+.row{
+    margin-top: 1%;
+}
+
+#nfsheader{
+    font-size: 30pt;
+    font-family: 'Permanent Marker', cursive;
+    padding: 20px;
+    text-align: center;
+    margin-top: 2%;
+}
+
+#galleryinstructions{
+    text-align: center;
+    font-family: 'Permanent Marker', cursive;
+}
+
+#imgscroller{
+    height: 400px;
+    width:900px;
+    overflow-x: auto;
+    white-space: nowrap;
+}
+
+img{
+    padding-left: 3px;
+    padding-right: 3px;
+}
+
+#printsforsale{
+    margin-top: 5%;
+    text-align: center;
+    font-family: 'Permanent Marker', cursive;
+    font-size: 15pt;
+    padding: 50px;
+    
+}
+
+#store{
+    padding: 10px;
+    align-content:center;
+    font-family: 'Permanent Marker', cursive;
+}
+
+#signup{
+    margin-top: 2%;
+    margin-bottom: 2%;
+    padding: 10px;
+}
+
+#contact{
+    font-family: 'Permanent Marker', cursive;
+    font-size: 20pt;
+    padding: 10px;
+     margin-top: 2%;
+}
+
+#contact i{
+    padding: 10px;
+}
+
+footer{
+    height:90px;
+    background-color: black;
+    text-align: center;
+}
+
+#footernav a{
+    text-decoration: none;
+    color: white;
+}
+
+#footernav li{
+    text-decoration: none;
+    font-family: 'Permanent Marker', cursive;
+    margin-top: 2%;
+    display: inline-block;
+    color: white;
+    letter-spacing: .25em;
+    
+}
